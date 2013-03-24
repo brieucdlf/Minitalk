@@ -5,7 +5,7 @@
 ** Login   <delafob@epitech.net>
 ** 
 ** Started on  Mon Mar 11 13:17:37 2013 Brieuc de La Fouchardière
-** Last update Sun Mar 24 17:09:59 2013 Brieuc de La Fouchardière
+** Last update Sun Mar 24 18:28:43 2013 Brieuc de La Fouchardière
 */
 
 #include "client.h"
@@ -53,7 +53,7 @@ int	main(int argc, char **argv)
     }
   else
     {
-      my_putstr("\033[33mError: enter the pid and characters !\033[0m");
+      my_putstr("\033[33mError: enter the pid and characters..\033[0m");
       exit(1);
     }
   return (0);
