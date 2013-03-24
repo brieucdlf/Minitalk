@@ -5,17 +5,11 @@
 ** Login   <delafob@epitech.net>
 ** 
 ** Started on  Mon Mar 11 13:23:46 2013 Brieuc de La Fouchardière
-** Last update Tue Mar 12 15:28:41 2013 Brieuc de La Fouchardière
+** Last update Sun Mar 24 17:49:24 2013 Brieuc de La Fouchardière
 */
 
 #ifndef SERV_H_
 # define SERV_H_
-
-/*
-** Globales
-*/
-
-
 
 /* 
 ** Includes

@@ -5,7 +5,7 @@
 ## Login   <delafo_b@epitech.net>
 ## 
 ## Started on  Mon Jan 14 12:01:50 2013 brieuc delafouchardiere
-## Last update Tue Mar 12 14:58:27 2013 Brieuc de La Fouchardière
+## Last update Sun Mar 24 18:14:35 2013 Brieuc de La Fouchardière
 ##
 
 NAMESERV	=	server/server
@@ -28,7 +28,7 @@ OBJSCLIENT	=	$(SRCSCLIENT:.c=.o)
 
 LIBMY		=	-lmy -Llib/
 
-$(NAMESERV) : $(OBJSSERV)
+$(NAMESERV) : $(OBJSSERV) $(NAMECLIENT)
 	@echo ""
 	@echo -e "\033[2mStarting...\033[0m" "\033[32m OK \033[0m"
 	@echo ""

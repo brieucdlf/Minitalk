@@ -5,7 +5,7 @@
 ** Login   <delafob@epitech.net>
 ** 
 ** Started on  Mon Mar 11 13:23:46 2013 Brieuc de La Fouchardière
-** Last update Tue Mar 12 16:43:52 2013 Brieuc de La Fouchardière
+** Last update Sun Mar 24 17:48:58 2013 Brieuc de La Fouchardière
 */
 
 #ifndef CLIENT_H_
@@ -19,12 +19,5 @@
 #include <stdlib.h>
 #include <signal.h>
 #include "color.h"
-
-/* Struct */
-
-typedef struct s_mytalk
-{
-  
-} t_mytalk;
 
 #endif /* CLIENT_H_ */
