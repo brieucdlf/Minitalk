@@ -1,13 +1,3 @@
-##
-## Makefile for Makefile in /home/delafo_b//00-Svn/myselect-2017-delafo_b
-## 
-## Made by brieuc delafouchardiere
-## Login   <delafo_b@epitech.net>
-## 
-## Started on  Mon Jan 14 12:01:50 2013 brieuc delafouchardiere
-## Last update Sun Mar 24 18:14:35 2013 Brieuc de La Fouchardière
-##
-
 NAMESERV	=	server/server
 
 NAMECLIENT	=	client/client
