@@ -1,13 +1,3 @@
-/*
-** main.c for main server in /home/delafob/delafo_b/SVN/minitalk/server
-** 
-** Made by Brieuc de La Fouchardière
-** Login   <delafob@epitech.net>
-** 
-** Started on  Mon Mar 11 13:19:09 2013 Brieuc de La Fouchardière
-** Last update Sun Mar 24 16:29:13 2013 Brieuc de La Fouchardière
-*/
-
 #include "serv.h"
 
 void		convert_back(char *buffer)
