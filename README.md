@@ -1,4 +1,4 @@
 Minitalk
 ========
 
-Projet UNIX Epitech
+Projet First year UNIX Epitech
