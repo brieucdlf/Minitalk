@@ -1,14 +1,3 @@
-/*
-** text_color.h for COLOR in /home/delafo_b/
-** 
-** Made by brieuc delafouchardiere
-** Login   <delafo_b@epitech.net>
-** 
-** Started on  Wed Jan 16 15:35:08 2013 brieuc delafouchardiere
-** Last update Wed Jan 16 15:35:12 2013 brieuc delafouchardiere
-*/
-
-
 #ifndef TEXT_COLOR_H_
 #define TEXT_COLOR_H_
 
