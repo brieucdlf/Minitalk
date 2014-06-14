@@ -1,13 +1,3 @@
-/*
-** main.c for main client in /home/delafob/delafo_b/SVN/minitalk/client
-** 
-** Made by Brieuc de La Fouchardière
-** Login   <delafob@epitech.net>
-** 
-** Started on  Mon Mar 11 13:17:37 2013 Brieuc de La Fouchardière
-** Last update Sun Mar 24 18:28:43 2013 Brieuc de La Fouchardière
-*/
-
 #include "client.h"
 
 void	converting(int pid, char *str)
